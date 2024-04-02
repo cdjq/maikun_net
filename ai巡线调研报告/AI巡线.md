@@ -31,7 +31,7 @@
 
 ### 点返回速度
 
-![gif1alttext](\output.gif)
+![gif1alttext](\output.mp4)
 
 ​        以上是一个实际摄像头巡线,fps最大约在14左右
 
