@@ -227,25 +227,25 @@ LCD:st7789 240x240
 ​    下面使模型推理结果，难度较大,不同的颜色表示不同的物体
 
 
-<div align="center">
+
     <img src="Figure_111.PNG" alt="ten1" style="zoom:50%";>
     <img src="Figure_22.PNG" alt="ten2" style="zoom:50%";>
-</div>
 
 
 
-<div align="center">
+
+
     <img src="Figure_33.PNG" alt="ten1" style="zoom:100%";>
-</div>
 
 
 
 
 
-<div align="center">
+
+
     <img src="Figure_4.PNG" alt="ten1" style="zoom:50%";>
     <img src="Figure_5.PNG" alt="ten2" style="zoom:50%";>
-</div>
+
 
 ## 存在问题：
 
