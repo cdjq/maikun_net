@@ -37,7 +37,8 @@
 
 ## 使用的硬件
 
-![img](\rv1106.jpg)
+<img src="\rv1106.jpg" alt="xu" style="zoom:100%;" />
+
 
 摄像头：SC3336 3MP Camera (A)，300万像素，最大支持30fps
 
