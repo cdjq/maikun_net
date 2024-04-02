@@ -31,7 +31,7 @@
 
 ### 点返回速度
 
-![gif1alttext](\output.mp4)
+![gif1alttext](\output.gif)
 
 ​        以上是一个实际摄像头巡线,fps最大约在14左右
 
@@ -228,6 +228,7 @@ LCD:st7789 240x240
 
 ![Figure_111](Figure_111.png)
 ![Figure_111](Figure_22.png)
+这一张识别失败
 ![Figure_111](Figure_33.png)
 ![Figure_111](Figure_4.png)
 ![Figure_111](Figure_5.png)
